@@ -1,4 +1,9 @@
-# HTML
+# Projeto Assistente de Meta com Gemini API
+
+<img width="1910" height="986" alt="Captura de tela 2025-07-28 174634" src="https://github.com/user-attachments/assets/4b5fb00f-5979-4639-a19a-206b658d7c47" />
+
+## Conceitos
+### HTML
 
 - HyperText
   - Textos puros, livros, revistas, jornais
@@ -13,7 +18,7 @@
   - Linguagem
   - Sintaxe: maneira de escrever
 
-# HTTP
+### HTTP
 
 - HyperText
 - Transfer
@@ -24,7 +29,7 @@
 - Methods HTTP (verbos): Get, Post, Patch/Put, Delete
 - Headers (cabeçalhos): Instruções/Informações extras para cada chamada
 
-# URL
+### URL
 
 - Uniform
   - Uniforme
@@ -35,7 +40,7 @@
 Encontrar um recurso (html, css, js, pdf, png, jpg, mp4, mp3, ...)
 Endereço
 
-# IP
+### IP
 
 - Internet
   - Rede mundial de computadores
@@ -45,7 +50,7 @@ Endereço do computador
 Ex: rocketseat.com.br (domínio)
 123.32.1.23 (IP)
 
-# DNS
+### DNS
 
 - Domain
   - Domínio
@@ -54,7 +59,7 @@ Ex: rocketseat.com.br (domínio)
 - Server
   - Servidor
 
-# CSS
+### CSS
 
 - Cascading
   - Cascata
@@ -80,7 +85,7 @@ A partir disso, o HTML é impactado visualmente.
   - Largura: width
   - Altura: height
 
-# JS
+### JS
 
 - Linguagem de programação
 - Browsers
@@ -107,38 +112,38 @@ A partir disso, o HTML é impactado visualmente.
   - Objects
   - ...
 
-# DOM
+### DOM
 
 - Document
 - Object
 - Model
 
-# API
+### API
 
 - Aplication
 - Programming
 - Interface
 - JSON: JavaScript Object Notation
 
-# CDN
+### CDN
 
 - Content
 - Delivery
 - Network
 
-# LLM
+### LLM
 
 - Large
 - Language
 - Model
 - Gemini, OpenAI (chatGPT), Anthropic (Claude), ...
 
-# Agents AI
+### Agents AI
 
 - Tools (ferramentas): permitem uso de código, ou apps, ou qualquer informação extra
 - Melhor contexto
 
-## Engenharia de prompt
+### Engenharia de prompt
 
 - One shot: uma única pergunta sem muito contexto
 - Few shot: é apresentado exemplos do que se espera
